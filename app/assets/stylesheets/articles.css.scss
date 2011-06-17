@@ -1,0 +1,29 @@
+// Place all the styles related to the Articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+input {
+  background-color: #ddd;
+  border-radius: 5px;
+}
+
+textarea {
+  border-radius: 5px;
+}
+
+#articles {
+  border: solid 2px;
+  border-radius: 5px;
+  background-color: #2E0;
+}
+
+#comments {
+  border: solid 2px;
+  border-radius: 5px;
+  background-color: #ccc;
+}
+
+body.Articles {
+  // Place scoped styles here
+  background-color: #F00;
+}
